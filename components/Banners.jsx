@@ -20,28 +20,28 @@ export default class Banners extends Component {
             
             <div className="relative left-[20%]">
               <img
-                src="https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg?_=42445"
+                src="/ROLLO FOTOGRAFICO INICIO/1.jpg"
                 alt=""
                 style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
               />
             </div>{" "}
             <div className="relative left-[20%]">
               <img
-                src="https://images.newscientist.com/wp-content/uploads/2021/07/20164548/gettyimages-171117216_web.jpg"
+                src="/ROLLO FOTOGRAFICO INICIO/2.jpg"
                 alt=""
                 style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
               />
             </div>{" "}
             <div className="relative left-[20%]">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmL5tCXfVvHmMMihoo7UpfiYDGSYosJZ0gRCE3izhFJtjcHuk7wUGPxgieVATW5vfgtOM&usqp=CAU"
+                src="/ROLLO FOTOGRAFICO INICIO/3.jpg"
                 alt=""
                 style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[20%]">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTyeIRiDW1h0Vuceuo3Hu64XtFOtPq2Ka_i0IPqE&s"
+                src="/ROLLO FOTOGRAFICO INICIO/4.jpg"
                 alt=""
                 style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
               />
