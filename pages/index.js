@@ -18,7 +18,7 @@ export default function Home() {
 
       </div>
 
-      <Banners/>
+      <div><Banners/></div>
     
       <div className='bg-[#EBFFF7] text-[#A5E6E2] pt-[20px] w-[200px] xl:w-[100%]'>
 

@@ -25,7 +25,7 @@ export default function Home() {
         <div className='pt-[70px]'> <span style={{ fontFamily: 'Allura, cursive' }} className='font-bold text-[60px] pt-10'> Sabías que</span></div>
       </div>
 
-      <BannersSabiasQue/>
+      <div><BannersSabiasQue/></div>
 
     </div>
   )
