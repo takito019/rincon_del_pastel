@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import BannersSabiasQue from '../components/BannersSabiasQue'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -24,26 +25,7 @@ export default function Home() {
         <div className='pt-[70px]'> <span style={{ fontFamily: 'Allura, cursive' }} className='font-bold text-[60px] pt-10'> Sabías que</span></div>
       </div>
 
-      <div className='mt-10 bg-[#FAEFEC]'> </div>
-      <div className='pt-10 pb-10'></div>
-
-      <div className=' border-dashed border-4 border-[#E88F8F] bg-[#FAEFEC]'>
-        <div className='pt-20 pb-20'></div>
-      </div>
-
-      <div className='mt-10 bg-[FAEFEC]'> </div>
-      <div className='pt-10 pb-10'></div>
-
-      <div className=' border-dashed border-4 border-[#03989E] bg-[#EBFFF7]'>
-        <div className='pt-20 pb-20'></div>
-      </div>
-
-      <div className='mt-10 bg-[FAEFEC]'> </div>
-      <div className='pt-10 pb-10'></div>
-
-      <div className=' border-dashed border-4 border-[#E88F8F] bg-[#FAEFEC]'>
-        <div className='pt-20 pb-20'></div>
-      </div>
+      <BannersSabiasQue/>
 
     </div>
   )

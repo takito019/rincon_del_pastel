@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
 
-export default class BannersPromociones extends Component {
+export default class BannersSabiasQue extends Component {
   render() {
     const settings = {
       arrows: true,
@@ -20,61 +20,46 @@ export default class BannersPromociones extends Component {
             
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/1.PNG"
+                src="/Sabias que/1.jpeg"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>{" "}
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/2.PNG"
+                src="/Sabias que/2.jpeg"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>{" "}
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/3.PNG"
+                src="/Sabias que/3.jpeg"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/4.PNG"
+                src="/Sabias que/4.jpeg"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/5.PNG"
+                src="/Sabias que/5.jpeg"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/6.PNG"
+                src="/Sabias que/6.jpeg"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
-            <div className="relative left-[30%]">
-              <img
-                src="/Promociones/7.PNG"
-                alt=""
-                style={{ height: "800px", width: "700px", borderRadius:'35px' }}
-              />
-            </div>
-            <div className="relative left-[30%]">
-              <img
-                src="/Promociones/8.PNG"
-                alt=""
-                style={{ height: "800px", width: "700px", borderRadius:'35px' }}
-              />
-            </div>
-           
           </Slider>
         </div>
       </div>

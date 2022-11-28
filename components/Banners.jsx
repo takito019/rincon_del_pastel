@@ -10,40 +10,68 @@ export default class Banners extends Component {
       slidesToShow: 1,
       slidesToScroll: 1,
       autoplay:true,
-      autoplayspeed:3000
-      
+      autoplayspeed:1000,
+
     };
     return (
-      <div className="h-[70vh] bg-[#1e2029] text-center ">
+      <div className="h-[37vh] bg-[#F8E0F1] text-center justify-center">
         <div className="flex justify-center">
           <Slider {...settings} className=" w-[90%] justify-center">
             
-            <div className="relative left-[20%]">
+            <div className="relative left-[30%]">
               <img
                 src="/ROLLO FOTOGRAFICO INICIO/1.jpg"
                 alt=""
-                style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
               />
             </div>{" "}
-            <div className="relative left-[20%]">
+            <div className="relative left-[30%]">
               <img
                 src="/ROLLO FOTOGRAFICO INICIO/2.jpg"
                 alt=""
-                style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
               />
             </div>{" "}
-            <div className="relative left-[20%]">
+            <div className="relative left-[30%]">
               <img
                 src="/ROLLO FOTOGRAFICO INICIO/3.jpg"
                 alt=""
-                style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
               />
             </div>
-            <div className="relative left-[20%]">
+            <div className="relative left-[30%]">
               <img
                 src="/ROLLO FOTOGRAFICO INICIO/4.jpg"
                 alt=""
-                style={{ height: "500px", width: "1000px", borderRadius:'35px' }}
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
+              />
+            </div>
+            <div className="relative left-[30%]">
+              <img
+                src="/ROLLO FOTOGRAFICO INICIO/5.jpg"
+                alt=""
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
+              />
+            </div>
+            <div className="relative left-[30%]">
+              <img
+                src="/ROLLO FOTOGRAFICO INICIO/6.jpg"
+                alt=""
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
+              />
+            </div>
+            <div className="relative left-[30%]">
+              <img
+                src="/ROLLO FOTOGRAFICO INICIO/7.jpg"
+                alt=""
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
+              />
+            </div>
+            <div className="relative left-[30%]">
+              <img
+                src="/ROLLO FOTOGRAFICO INICIO/8.jpg"
+                alt=""
+                style={{ height: "300px", width: "700px", borderRadius:'35px' }}
               />
             </div>
            
