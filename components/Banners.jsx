@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
 
+
+
 export default class Banners extends Component {
   render() {
     const settings = {
@@ -13,6 +15,8 @@ export default class Banners extends Component {
       autoplayspeed:1000,
 
     };
+
+    
     return (
       <div className="h-[40vh] bg-[#F8E0F1] text-center justify-center">
         <div className="flex justify-center">

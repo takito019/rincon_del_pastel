@@ -28,7 +28,7 @@ export default function Home() {
           <div className='text-[#4FB1AB] md:flex-1 text-center' >
             <span style={{ fontFamily: 'Allura, cursive' }} className=' text-[50px]'> Misión </span>
             <div className='font-light pr-20'>
-              <span style={{ fontFamily: 'Exo 2, sans-serif' }} className="text-3xl text-black text-left pl-20 ">
+              <span style={{ fontFamily: 'Exo 2, sans-serif' }} className="text-3xl text-black text-left pl-20">
                 Lograr que cada uno de nuestros clientes viva una experiencia única y diferente,
                 brindándoles un servicio y productos de calidad, en una atmosfera agradable.</span>
             </div>

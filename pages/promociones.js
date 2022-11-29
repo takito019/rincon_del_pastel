@@ -26,27 +26,6 @@ export default function Home() {
       </div>
 
       <div><BannersPromociones/></div>
-      <div className='mt-10 bg-[FAEFEC]'> </div>
-      <div className='pt-10 pb-10'></div>
-
-      <div className=' border-dashed border-4 border-[#E88F8F] bg-[#FAEFEC]'>
-        <div className='pt-20 pb-20'></div>
-      </div>
-
-      <div className='mt-10 bg-[FAEFEC]'> </div>
-      <div className='pt-10 pb-10'></div>
-
-      <div className=' border-dashed border-4 border-[#03989E] bg-[#EBFFF7]'>
-        <div className='pt-20 pb-20'></div>
-      </div>
-
-      <div className='mt-10 bg-[FAEFEC]'> </div>
-      <div className='pt-10 pb-10'></div>
-
-      <div className=' border-dashed border-4 border-[#E88F8F] bg-[#FAEFEC]'>
-        <div className='pt-20 pb-20'></div>
-      </div>
-
     </div>
   )
 }
