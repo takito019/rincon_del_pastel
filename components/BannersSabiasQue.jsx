@@ -16,7 +16,7 @@ export default class BannersSabiasQue extends Component {
     return (
       <div className="h-[100vh] bg-[#F8E0F1] text-center justify-center">
         <div className="flex justify-center">
-          <Slider {...settings} className=" w-[90%] justify-center">
+          <Slider {...settings} className=" w-[90%] justify-center  ">
             
             <div className="relative left-[30%]">
               <img

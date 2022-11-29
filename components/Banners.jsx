@@ -15,7 +15,7 @@ export default class Banners extends Component {
 
     
     return (
-      <div className="h-[40vh] bg-[#F8E0F1] text-center justify-center">
+      <div className="h-[60vh] bg-[#F8E0F1] text-center justify-center">
         <div className="flex justify-center">
           <Slider {...settings} className=" w-[90%] justify-center">
             

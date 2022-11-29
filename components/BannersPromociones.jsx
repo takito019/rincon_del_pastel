@@ -20,56 +20,56 @@ export default class BannersPromociones extends Component {
             
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/1.PNG"
+                src="/promos/1.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>{" "}
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/2.PNG"
+                src="/promos/2.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>{" "}
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/3.PNG"
+                src="/promos/3.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/4.PNG"
+                src="/promos/4.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/5.PNG"
+                src="/promos/5.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/6.PNG"
+                src="/promos/6.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/7.PNG"
+                src="/promos/7.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
             </div>
             <div className="relative left-[30%]">
               <img
-                src="/Promociones/8.PNG"
+                src="/promos/8.PNG"
                 alt=""
                 style={{ height: "800px", width: "700px", borderRadius:'35px' }}
               />
