@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
 
-
-
 export default class Banners extends Component {
   render() {
     const settings = {
@@ -13,7 +11,6 @@ export default class Banners extends Component {
       slidesToScroll: 1,
       autoplay:true,
       autoplayspeed:1000,
-
     };
 
     

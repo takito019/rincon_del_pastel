@@ -7,8 +7,8 @@ export default function Home() {
                 <img src='/LOGO CUPCAKES.png' className=''></img>
             </div>
             <div>
-                <div className='grid grid-cols-3 gap-4 '>
-                    <div className='pl-10'>
+                <div className='grid grid-cols-3 justify-items-center mt-10 mb-10 gap-4 text-center'>
+                    <div className='pl-10 text-center '>
                         <img src='/IMAGENES CUPCAKES/CHOCOLATE.jpg' alt='chocolate' className='rounded-full border-solid border-8 border-[#E88F8F] w-[250px] h-[250px] m-4 '></img>
                         <span className='text-black text-2xl font-bold text-center'>Chocolate</span><span className='font-light text-gray-600 text-2xl'>/ $25</span>
                     </div>
@@ -18,14 +18,14 @@ export default function Home() {
                         <span className='text-black text-2xl font-bold '>Limón</span><span className='font-light text-gray-600 text-2xl'>/ $20</span>
                     </div>
 
-                    <div className='pr-10'>
+                    <div className='pr-10 text-center'>
                         <img src='/IMAGENES CUPCAKES/NUEZ.jpg' alt='nuez' className='rounded-full border-solid border-8 border-[#E88F8F] w-[250px] h-[250px] m-4'></img>
                         <span className='text-black text-2xl font-bold'>Nuez</span><span className='font-light text-gray-600 text-2xl'>/ $25</span>
                     </div>
                 </div>
 
-                <div className='grid grid-cols-3 gap-4 '>
-                    <div className='pl-10'>
+                <div className='grid grid-cols-3 justify-items-center mt-10 mb-10 gap-4 text-center'>
+                    <div className='pl-10 text-center'>
                         <img src='/IMAGENES CUPCAKES/CONFFETI.jpg' alt='conffeti' className='rounded-full border-solid border-8 border-[#E88F8F] w-[250px] h-[250px] m-4 '></img>
                         <span className='text-black text-2xl font-bold'>Conffeti</span><span className='font-light text-gray-600 text-2xl'>/ $20</span>
                     </div>
@@ -35,14 +35,14 @@ export default function Home() {
                         <span className='text-black text-2xl font-bold'>Platano</span><span className='font-light text-gray-600 text-2xl'>/ $25</span>
                     </div>
 
-                    <div className='pr-10'>
+                    <div className='pr-10 text-center'>
                         <img src='/IMAGENES CUPCAKES/RED VELVET.jpg' alt='redVelvet' className='rounded-full border-solid border-8 border-[#E88F8F] w-[250px] h-[250px] m-4'></img>
                         <span className='text-black text-2xl font-bold'>Red Velvet</span><span className='font-light text-gray-600 text-2xl'>/ $20</span>
                     </div>
                 </div>
 
-                <div className='grid grid-cols-3 gap-4 '>
-                    <div className='pl-10'>
+                <div className='grid grid-cols-3 justify-items-center mt-10 mb-10 gap-4 text-center'>
+                    <div className='pl-10 text-center'>
                         <img src='/IMAGENES CUPCAKES/CARAMELO.jpg' alt='Caramelo' className='rounded-full border-solid border-8 border-[#E88F8F] w-[250px] h-[250px] m-4 '></img>
                         <span className='text-black text-2xl font-bold'>Caramelo</span><span className='font-light text-gray-600 text-2xl'>/ $25</span>
                     </div>
@@ -52,7 +52,7 @@ export default function Home() {
                         <span className='text-black text-2xl font-bold'>Lavanda</span><span className='font-light text-gray-600 text-2xl'>/ $25</span>
                     </div>
 
-                    <div className='pr-10'>
+                    <div className='pr-10 text-center'>
                         <img src='/IMAGENES CUPCAKES/COCO.jpg' alt='coco' className='rounded-full border-solid border-8 border-[#E88F8F] w-[250px] h-[250px] m-4'></img>
                         <span className='text-black text-2xl font-bold'>Coco</span><span className='font-light text-gray-600 text-2xl'>/ $25</span>
                     </div>

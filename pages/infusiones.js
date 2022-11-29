@@ -7,7 +7,7 @@ export default function Home() {
                 <img src='/LOGO INFUSIONES.png' className=''></img>
             </div>
             <div>
-                <div className='grid grid-cols-3 gap-4 '>
+                <div className='grid grid-cols-3 justify-items-center mt-10 mb-10 gap-4 '>
                     <div className='pl-10'>
                         <img src='/INFUSIONES/FRAMBUESA Y MENTA.jpg' alt='frambuesa' className='rounded-full border-solid border-8 border-[#03989E] w-[250px] h-[250px] m-4 '></img>
                         <span className='text-black text-2xl font-bold text-center'>Frambuesa y menta</span><span className='font-light text-gray-600 text-2xl'>/ $50 $55</span>
@@ -24,7 +24,7 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className='grid grid-cols-3 gap-4 '>
+                <div className='grid grid-cols-3 justify-items-center mt-10 mb-10 gap-4 '>
                     <div className='pl-10'>
                         <img src='/INFUSIONES/Piña y coco.jpg' alt='piñaCoco' className='rounded-full border-solid border-8 border-[#03989E] w-[250px] h-[250px] m-4 '></img>
                         <span className='text-black text-2xl font-bold'>Piña y coco</span><span className='font-light text-gray-600 text-2xl'>/ $50 $55</span>
